@@ -15,7 +15,7 @@ A simple Google Translator clone built using React and Material UI. This applica
 
 ## Demo
 
-![Virtual Keyboard Screenshot](assets/keyboard.JPG)
+![Virtual Keyboard Screenshot](assets/keyboard.jpg)
 
 You can check out a live demo of this project [here](#your-demo-link).
 
