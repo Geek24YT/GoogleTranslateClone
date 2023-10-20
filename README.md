@@ -17,40 +17,5 @@ A simple Google Translator clone built using React and Material UI. This applica
 
 ![Virtual Keyboard Screenshot](assets/keyboard.jpg)
 
-You can check out a live demo of this project [here](#your-demo-link).
+You can check out a live demo of this project [here](#https://google-translate-clone-beige.vercel.app/).
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/your-repo.git
-
-2. Change into the project directory:
-
-```bash
-cd your-repo
-
-3. Install the dependencies:
-
-```bash
-
-npm install
-
-4. Start the development server:
-
-```bash
-npm start
-
-The application will be accessible at http://localhost:3000/.
-
-## Usage
-
-Enter text in the source language text box.
-Select the source language from the dropdown.
-Select the target language from the dropdown.
-View the translated text in the target language text box.
-You can also use the virtual keyboard for text input.
-The translation will automatically update as you type.
